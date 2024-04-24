@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devil893&label=Profile%20views&color=0e75b6&style=flat" alt="devil893" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devil893" alt="devil893" /></a> </p>
-
 - 🌱 I’m currently learning **I'm currently diving into a range of data science frameworks, including TensorFlow and PyTorch, mastering machine learning algorithms, and enhancing my data visualization capabilities using tools like Matplotlib and Seaborn. I'm also deepening my knowledge in areas such as natural language processing, computer vision, and predictive analytics to broaden my proficiency in the field. 🚀💻**
 
 - 💬 Ask me about **Feel free to ask anything related to Data Science,Machine Learning,Artificial Intelligence Or any other topic your curious to know and explore about! I am here to help you out**
